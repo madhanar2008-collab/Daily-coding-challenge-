@@ -15,4 +15,16 @@ Try to solve !!
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
