@@ -21,6 +21,7 @@ Try to solve !!
 | ------- |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Try to solve !!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
