@@ -8,6 +8,7 @@ Try to solve !!
 | ------- |
 | [0001-two-sum](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
@@ -110,6 +111,7 @@ Try to solve !!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Manacher
 |  |
 | ------- |
