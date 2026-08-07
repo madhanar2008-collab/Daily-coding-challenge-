@@ -13,6 +13,7 @@ Try to solve !!
 | [0033-search-in-rotated-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ Try to solve !!
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -41,6 +43,7 @@ Try to solve !!
 | [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
@@ -150,6 +153,7 @@ Try to solve !!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
