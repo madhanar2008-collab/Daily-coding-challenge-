@@ -6,6 +6,7 @@ Try to solve !!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -13,6 +14,7 @@ Try to solve !!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
