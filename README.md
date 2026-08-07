@@ -11,6 +11,7 @@ Try to solve !!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
@@ -20,11 +21,13 @@ Try to solve !!
 | [0001-two-sum](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Math
@@ -139,4 +142,16 @@ Try to solve !!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0033-search-in-rotated-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
