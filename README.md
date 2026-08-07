@@ -6,6 +6,7 @@ Try to solve !!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
@@ -80,6 +81,7 @@ Try to solve !!
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -110,4 +112,8 @@ Try to solve !!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
