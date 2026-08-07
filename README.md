@@ -22,6 +22,7 @@ Try to solve !!
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Try to solve !!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +64,16 @@ Try to solve !!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
