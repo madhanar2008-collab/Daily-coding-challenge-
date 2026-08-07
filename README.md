@@ -43,6 +43,7 @@ Try to solve !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -76,6 +77,7 @@ Try to solve !!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -99,4 +101,12 @@ Try to solve !!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
