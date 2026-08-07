@@ -32,6 +32,7 @@ Try to solve !!
 | [0007-reverse-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -39,6 +40,7 @@ Try to solve !!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -85,6 +87,7 @@ Try to solve !!
 | [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -120,4 +123,8 @@ Try to solve !!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
