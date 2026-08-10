@@ -119,6 +119,7 @@ Try to solve !!
 | ------- |
 | [0002-add-two-numbers](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Try to solve !!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0061-rotate-list) |
 ## Manacher
 |  |
 | ------- |
