@@ -43,6 +43,7 @@ Try to solve !!
 | [0067-add-binary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0258-add-digits) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -62,18 +63,22 @@ Try to solve !!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0005-longest-palindromic-substring) |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,4 +163,12 @@ Try to solve !!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
