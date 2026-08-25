@@ -15,6 +15,7 @@ Try to solve !!
 | [1406-stone-game-iii](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ Try to solve !!
 | [0169-majority-element](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1512-number-of-good-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
