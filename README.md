@@ -175,4 +175,8 @@ Try to solve !!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/madhanar2008-collab/Daily-coding-challenge-/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
